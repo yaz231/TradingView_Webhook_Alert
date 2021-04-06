@@ -4,10 +4,6 @@ import cbpro
 
 from config import sandbox_b64secret as secret, sandbox_key as key, sandbox_secret as passphrase, ALPACA_SECRET_KEY as SECRET_KEY, ALPACA_API_KEY as API_KEY
 
-#sandbox_secret = '5b9nw2236xg'
-#sandbox_key = '01d8957c6b2243359e0fb6e31d18a935'
-#sandbox_b64secret = 'mPaHSH7xZevvzu2KMEpDoYJGn3Yle/RFJSeodbh0adg0nlOVFhEjRHNH1o1xJZ1aw7yblbZwvL9/8Njb4VziYA=='
-
 ALPACA_BASE_URL = "https://paper-api.alpaca.markets"
 CB_URL = "https://api.pro.coinbase.com"
 CB_SBOX_URL = "https://api-public.sandbox.pro.coinbase.com"
